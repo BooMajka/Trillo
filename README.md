@@ -9,3 +9,4 @@ https://amazing-hawking-cbf0bf.netlify.app
 - SASS
 - CSS
 - HTML
+- RWD
